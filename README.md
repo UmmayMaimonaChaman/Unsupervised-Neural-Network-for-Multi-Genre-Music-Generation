@@ -166,4 +166,4 @@ J(θ) = E[r(X_gen)]                      (objective)
 ---
 
 ## 👩‍💻 Author
-**Ummay Maimona Chaman** — ID: 22301719 — Section 1 — CSE425 Spring 2026
+**Ummay Maimona Chaman** — Neural Network Spring 2026
